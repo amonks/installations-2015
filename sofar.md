@@ -123,6 +123,8 @@ I tried a trial round of this installation on March 2, 2015.
 
 ##### Next Round
 
+![second round  ](sellf-sketchup.png)
+
 I'll do another round of the installation on May 2, 2015 at [Wunder ](http://wunder.xyz)
 
 ###### Materials
