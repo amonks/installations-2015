@@ -122,13 +122,13 @@ For buyers:
 
 I tried a trial round of this installation on March 2, 2015.
 
-![initial presentation ](sellf-1304.jpg)
+![picture of initial presentation ](sellf-1304.jpg)
 
 <iframe src="https://player.vimeo.com/video/123594829" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ##### Next Round
 
-![second round  ](sellf-sketchup.png)
+![model of second round of installation ](sellf-sketchup.png)
 
 I'll do another round of the installation on May 2, 2015 at [Wunder ](http://wunder.xyz)
 
