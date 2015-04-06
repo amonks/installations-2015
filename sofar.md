@@ -119,7 +119,7 @@ The following text is appropriate for display in the gallery alongside the insta
 
 ##### For buyers:
 
-> Data mining allows us to advertise more cheaply and effectively than ever thought possible. Don't just target demographics, target conditions: `just stopped at atm`, `good mood`, `hungry`, `drunk`.
+> Data mining allows us to advertise more cheaply and effectively than ever thought possible. Don't just target demographics, target conditions: `just stopped at atm`, `good mood`, `drunk`. Or, even, `recently looked at a competitor's product`, `looked at shoes online earlier but didn't buy`, `spent 20 minutes in the kitchen section at Macy's, then left empty handed`, or `didn't eat enough protein with breakfast`
 >
 > By collecting all of a consumer's data from every source with consent, `sellf.org` offers a revolutionary data resolution, enabling you to sell many times more for every advertising dollar.
 
