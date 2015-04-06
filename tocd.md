@@ -10,11 +10,17 @@
     - [Literal Surveillance 2-room Proposal](#literal-surveillance-room-proposal)
         - [Materials](#materials)
     - [Sellf](#sellf)
-        - [Statement](#statement)
-        - [For sellers](#for-sellers)
-        - [For buyers](#for-buyers)
+        - [Private Statement](#private-statement)
+            - [Sellf.org](#sellforg)
+            - [What happens to data collected online anyway?](#what-happens-to-data-collected-online-anyway)
+            - [thoughts](#thoughts)
         - [Installation: Sellf.org Promotional Seminar](#installation-sellforg-promotional-seminar)
+            - [First Round](#first-round)
+            - [Next Round](#next-round)
         - [References](#references)
+            - [Tactical media angle](#tactical-media-angle)
+            - [Data collection angle](#data-collection-angle)
+            - [Data liberation angle](#data-liberation-angle)
 
 <!-- end toc -->
 
@@ -71,7 +77,7 @@ I'll use several raspberry pi with cameras, each mounted directly on the walls o
 
 ![sellf.org website](sellf-website.png)
 
-#### Statement
+#### Private Statement
 
 ##### Sellf.org
 
@@ -80,20 +86,6 @@ I'll use several raspberry pi with cameras, each mounted directly on the walls o
 By revealing the market value of consumer data, `sellf.org` creates and investigates a world where consumerism can be self supporting. Can you make a living by publishing how you spend that living?
 
 More importantly, `sellf.org` seeks to attack the current form of the relationship between Big Data Collection and the public.
-
-#### For sellers
-
-There's an enormous market for data about you—your location, your purchasing habits, your interests. Many of the websites and services you use, the stores you visit, and the devices you carry are constantly scrambling to collect this data and sell it to the highest bidder.
-
-But nobody has more access to valuable data about you than you do.
-
-With Sellf, you can create a data product far more valuable than what anyone else could collect. Companies like Facebook and Google put millions of dollars into correlating datasets together, but you can sell all of your data as a single package. Google and Facebook can't compete.
-
-#### For buyers
-
-Data mining allows us to advertise more cheaply and effectively than ever thought possible. Don't just target demographics, target conditions: `just stopped at atm`, `good mood`, `hungry`, `drunk`.
-
-By collecting all of a consumer's data from every source with consent, `sellf.org` offers a revolutionary data resolution, enabling you to sell many times more for every advertising dollar.
 
 ##### What happens to data collected online anyway?
 
@@ -129,6 +121,25 @@ It forces people to consider questions personally that an art-framed piece could
 
 By using a 'tip-of-the-iceberg' approach, and giving people enough information so that they might explore the website on their own, the seminar adds to the mythology around sellf.org, making it seem perhaps larger.
 
+###### Public-Facing Statement
+
+The following text is appropriate for display in the gallery alongside the installation.
+
+For Sellers:
+
+> There's an enormous market for data about you—your location, your purchasing habits, your interests. Many of the websites and services you use, the stores you visit, and the devices you carry are constantly scrambling to collect this data and sell it to the highest bidder.
+>
+> But nobody has more access to valuable data about you than you do.
+>
+> With Sellf, you can create a data product far more valuable than what anyone else could collect. Companies like Facebook and Google put millions of dollars into correlating datasets together, but you can sell all of your data as a single package. Google and Facebook can't compete.
+
+For buyers:
+
+> Data mining allows us to advertise more cheaply and effectively than ever thought possible. Don't just target demographics, target conditions: `just stopped at atm`, `good mood`, `hungry`, `drunk`.
+>
+> By collecting all of a consumer's data from every source with consent, `sellf.org` offers a revolutionary data resolution, enabling you to sell many times more for every advertising dollar.
+
+
 ##### First Round
 
 I tried a trial round of this installation on March 2, 2015.
@@ -139,22 +150,25 @@ I tried a trial round of this installation on March 2, 2015.
 
 ##### Next Round
 
+![second round  ](sellf-sketchup.png)
+
 I'll do another round of the installation on May 2, 2015 at [Wunder ](http://wunder.xyz)
 
 ###### Materials
 
 *   assistant
-*   potted plant
-*   folding table
-*   laptop with PowerPoint
-*   single projector
-*   catered coffee
+*   1 potted plant
+*   2 folding tables
+*   1 laptop with PowerPoint
+*   1 short-throw projector, with floor-mount
+*   1 folding projector screen (on tripod)
+*   1 cart of catered coffee
 *   2 binders
-*   sign-up forms[?] for buyers
-*   contact forms for sellers
-*   take-away info pamphlets
-*   business cards
-*   branded pens[?]
+*   Many sign-up forms[?] for buyers
+*   Many contact forms for sellers
+*   Many take-away info pamphlets
+*   Many sellf.org business cards
+*   Several sellf.org branded pens[?]
 
 #### References
 
@@ -190,4 +204,13 @@ I'll do another round of the installation on May 2, 2015 at [Wunder ](http://wun
 *   migumi igorashi: selling vagina scan
 *   million dollar homepage
 
+*   http://dismagazine.com/issues/73298/sara-m-watson-metaphors-of-big-data/
+*   http://www.katecrawford.net/
+*   http://lauren-mccarthy.com/
 
+*   http://harpers.org/archive/2015/01/come-with-us-if-you-want-to-live/
+*   http://en.wikipedia.org/wiki/The_Californian_Ideology
+*   http://www.e-flux.com/journal/return-of-the-gothic-digital-anxiety-in-the-domestic-sphere/
+*   http://thenewinquiry.com/essays/the-anxieties-of-big-data/
+*   http://www.technologyreview.com/news/517346/the-paradox-of-wearable-technologies/
+*   https://modelviewculture.com/pieces/tech-workers-political-speech-and-economic-threat
