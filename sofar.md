@@ -49,15 +49,13 @@ I'll use several raspberry pi with cameras, each mounted directly on the walls o
 *   2 power strips
 *   2 projectors
 
-### Sellf
+## Sellf.org
 
 [sellf.org](http://sellf.org)
 
 ![sellf.org website](sellf-website.png)
 
-#### Private Statement
-
-##### Sellf.org
+### Private Statement
 
 `sellf.org` is a company that explores the ramifications of the commodification of personal data, by operating a free for-sale-by-owner data market. The premise: "Who's better equipped to sell your data than you are?"
 
@@ -65,29 +63,7 @@ By revealing the market value of consumer data, `sellf.org` creates and investig
 
 More importantly, `sellf.org` seeks to attack the current form of the relationship between Big Data Collection and the public.
 
-##### What happens to data collected online anyway?
-
-![retargeting ](sellf-retargeting.jpg)
-
-I honestly expected to be able to go online and find some page where I could buy a huge dataset from facebook or something. I haven't been able to find anything of the kind. Data collectors monetize their data through ad platforms.
-
-##### thoughts
-
-I'm not sure who to address on the `buy` page.
-
-###### option 1
-
-I could position sellf.org as a traditional marketing data sales company, selling huge datasets to corporate interests.
-
-This approach most directly engages with the current personal data market. On the other hand, as far as I've turned up, most of the huge data collectors (amazon, google, facebook) sell data indirectly via an advertising platform rather than as a dataset.
-
-A person has many datagrams which are (can be?) sold together. A buyer makes an order like "the cheapest hundred people who spend more than 100k per year and offer location and purchase data with >90% completeness", and it's filled based on how sellers set their prices.
-
-###### option 2
-
-On the other hand, it would be interesting to create a data market targeted more towards artists + hobbyists rather than marketing departments. Allowing people to submit arbitrary types/sets of data will help the ecosystem grow autonomously.
-
-#### Installation: Sellf.org Promotional Seminar
+### Installation: Sellf.org Promotional Seminar
 
 http://sellf.org tactically interjects itself into the online space to ask people critical questions about surveillance and create much-needed discourse. The *Sellf.org Promotional Seminar* brings that same interjection to the physical space.
 
@@ -99,26 +75,7 @@ It forces people to consider questions personally that an art-framed piece could
 
 By using a 'tip-of-the-iceberg' approach, and giving people enough information so that they might explore the website on their own, the seminar adds to the mythology around sellf.org, making it seem perhaps larger.
 
-###### Public-Facing Statement
-
-The following text is appropriate for display in the gallery alongside the installation.
-
-For Sellers:
-
-> There's an enormous market for data about you—your location, your purchasing habits, your interests. Many of the websites and services you use, the stores you visit, and the devices you carry are constantly scrambling to collect this data and sell it to the highest bidder.
->
-> But nobody has more access to valuable data about you than you do.
->
-> With Sellf, you can create a data product far more valuable than what anyone else could collect. Companies like Facebook and Google put millions of dollars into correlating datasets together, but you can sell all of your data as a single package. Google and Facebook can't compete.
-
-For buyers:
-
-> Data mining allows us to advertise more cheaply and effectively than ever thought possible. Don't just target demographics, target conditions: `just stopped at atm`, `good mood`, `hungry`, `drunk`.
->
-> By collecting all of a consumer's data from every source with consent, `sellf.org` offers a revolutionary data resolution, enabling you to sell many times more for every advertising dollar.
-
-
-##### First Round
+#### First Round
 
 I tried a trial round of this installation on March 2, 2015.
 
@@ -126,13 +83,13 @@ I tried a trial round of this installation on March 2, 2015.
 
 <iframe src="https://player.vimeo.com/video/123594829" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-##### Next Round
+#### Next Round
 
 ![model of second round of installation ](sellf-sketchup.png)
 
 I'll do another round of the installation on May 2, 2015 at [Wunder ](http://wunder.xyz)
 
-###### Materials
+#### Materials
 
 *   assistant
 *   1 potted plant
@@ -148,35 +105,50 @@ I'll do another round of the installation on May 2, 2015 at [Wunder ](http://wun
 *   Many sellf.org business cards
 *   Several sellf.org branded pens[?]
 
-#### References
+#### Public-Facing Statement
 
-##### Tactical media angle
+The following text is appropriate for display in the gallery alongside the installation.
 
-*   critical art ensemble: GenTerra, BioCom
+##### For Sellers:
+
+> There's an enormous market for data about you—your location, your purchasing habits, your interests. Many of the websites and services you use, the stores you visit, and the devices you carry are constantly scrambling to collect this data and sell it to the highest bidder.
+>
+> But nobody has more access to valuable data about you than you do.
+>
+> With Sellf, you can create a data product far more valuable than what anyone else could collect. Companies like Facebook and Google put millions of dollars into correlating datasets together, but you can sell all of your data as a single package. Google and Facebook can't compete.
+
+##### For buyers:
+
+> Data mining allows us to advertise more cheaply and effectively than ever thought possible. Don't just target demographics, target conditions: `just stopped at atm`, `good mood`, `hungry`, `drunk`.
+>
+> By collecting all of a consumer's data from every source with consent, `sellf.org` offers a revolutionary data resolution, enabling you to sell many times more for every advertising dollar.
+
+### References
+
+#### Tactical media angle
+
+*   critical art ensemble, GenTerra, BioCom
+*   steve kurtz
 *   http://biogenfutur.es/
 
-##### Data collection angle
+#### Data collection angle
 
 *   http://en.wikipedia.org/wiki/Behavioral_retargeting
 *   https://www.adroll.com/getting-started/retargeting
 *   https://www.adroll.com/
-
 *   https://www.quantcast.com/
 *   http://www.marketo.com/
 *   ghostery
 *   list of data collection companies: https://www.ghosteryenterprise.com/company-database/
 *   google, facebook, amazon, ...
 
-##### Data liberation angle
+#### Data liberation angle
 
 *   http://en.wikipedia.org/wiki/Google_Data_Liberation_Front
-
-###### specifics
-
 *   https://www.facebook.com/help/212802592074644
 *   https://www.moves-app.com/faq iphone app collecting location data
 
-###### misc
+#### misc
 
 *   quantify your worth on twitter // third party account resale value calculator
 *   migumi igorashi: selling vagina scan
@@ -192,3 +164,27 @@ I'll do another round of the installation on May 2, 2015 at [Wunder ](http://wun
 *   http://thenewinquiry.com/essays/the-anxieties-of-big-data/
 *   http://www.technologyreview.com/news/517346/the-paradox-of-wearable-technologies/
 *   https://modelviewculture.com/pieces/tech-workers-political-speech-and-economic-threat
+
+
+
+### thoughts
+
+#### What happens to data collected online anyway?
+
+![retargeting ](sellf-retargeting.jpg)
+
+I honestly expected to be able to go online and find some page where I could buy a huge dataset from facebook or something. I haven't been able to find anything of the kind. Data collectors monetize their data through ad platforms.
+
+#### I'm not sure who to address on the `buy` page.
+
+##### option 1
+
+I could position sellf.org as a traditional marketing data sales company, selling huge datasets to corporate interests.
+
+This approach most directly engages with the current personal data market. On the other hand, as far as I've turned up, most of the huge data collectors (amazon, google, facebook) sell data indirectly via an advertising platform rather than as a dataset.
+
+A person has many datagrams which are (can be?) sold together. A buyer makes an order like "the cheapest hundred people who spend more than 100k per year and offer location and purchase data with >90% completeness", and it's filled based on how sellers set their prices.
+
+##### option 2
+
+On the other hand, it would be interesting to create a data market targeted more towards artists + hobbyists rather than marketing departments. Allowing people to submit arbitrary types/sets of data will help the ecosystem grow autonomously.
