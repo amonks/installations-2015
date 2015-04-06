@@ -1,5 +1,3 @@
-# Andrew Monks' Installation Work // 2015
-
 [toc]
 
 ## Stereo
